@@ -24,7 +24,7 @@ A simple system to manage employee data, including adding, editing, and deleting
 
 ---
 
-## 📷 Screenshots
+#### 📷 Screenshots
 
 | Add Employee | Edit Employee | Delete Employee |
 |-------------|--------------|---------------|
