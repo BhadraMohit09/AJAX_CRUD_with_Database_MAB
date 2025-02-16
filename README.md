@@ -4,7 +4,7 @@ A simple system to manage employee data, including adding, editing, and deleting
 
 ---
 
-## 🚀 Features
+#### 🚀 Features
 
 - ✅ **Add Employee** – Insert new employee records  
 - ✅ **Edit Employee** – Update employee details dynamically  
