@@ -19,7 +19,7 @@ A simple system to manage employee data, including adding, editing, and deleting
 
 - **`Frontend`:** 🖥️ HTML, CSS, JavaScript, jQuery (AJAX)  
 - **`Backend`:** ⚙️ ASP .NET (C#)  
-- **Database:** 🗄️ SQL Server  
+- **`Database`:** 🗄️ SQL Server  
 - **Security:** 🔒 CSRF Protection  
 
 ---
