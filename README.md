@@ -17,7 +17,7 @@ A simple system to manage employee data, including adding, editing, and deleting
 
 #### 🛠️ Tech Stack
 
-- **Frontend:** 🖥️ HTML, CSS, JavaScript, jQuery (AJAX)  
+- **`Frontend`:** 🖥️ HTML, CSS, JavaScript, jQuery (AJAX)  
 - **Backend:** ⚙️ ASP .NET (C#)  
 - **Database:** 🗄️ SQL Server  
 - **Security:** 🔒 CSRF Protection  
