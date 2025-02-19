@@ -10,7 +10,7 @@ A simple system to manage employee data, including adding, editing, and deleting
 - ✅ **`Edit Employee`** – Update employee details dynamically  
 - ✅ **`Delete Employee`** – Remove employee records securely  
 - ✅ **`AJAX Integration`** – Fast, real-time updates without reloading  
-- ✅ **CSRF Protection** – Enhanced security against attacks  
+- ✅ **`CSRF Protection`** – Enhanced security against attacks  
 - ✅ **User-friendly UI** – Simple and intuitive design  
 
 ---
