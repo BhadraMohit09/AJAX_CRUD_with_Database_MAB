@@ -34,7 +34,7 @@ A simple system to manage employee data, including adding, editing, and deleting
 
 #### 🏗️ Installation & Setup
 
-#### 🔹 Clone the Repository
+#### 🔹 `Clone the Repository`
 ```sh
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
