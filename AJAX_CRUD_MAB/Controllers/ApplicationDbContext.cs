@@ -20,7 +20,7 @@ namespace AJAX_CRUD_MAB.Controllers
         {
             base.OnModelCreating(modelBuilder);
 
-            // Additional configurations if required
+            // Additional configurations if required!!
             modelBuilder.Entity<EmployeeModel>().ToTable("Employee");
 
             _logger.LogInformation("OnModelCreating was called for ApplicationDbContext.");
