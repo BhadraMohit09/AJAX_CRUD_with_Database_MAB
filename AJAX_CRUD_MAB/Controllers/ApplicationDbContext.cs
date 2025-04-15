@@ -14,6 +14,7 @@ namespace AJAX_CRUD_MAB.Controllers
             _logger = logger;
         }
 
+        //DbSet for Employee Database
         public DbSet<EmployeeModel> Employees { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
