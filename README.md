@@ -1,4 +1,4 @@
-#### 🏢 -- Employee Management System
+#### 🏢 `Employee Management System`
 
 A simple system to manage employee data, including adding, editing, and deleting employee records. It uses **`AJAX`** for dynamic updates and **CSRF tokens** for security, making it a robust solution for handling employee details efficiently....!
 
