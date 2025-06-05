@@ -31,7 +31,7 @@ A simple system to manage employee data, including adding, editing, and deleting
 
 ---
 
-#### 🏗️ Installation & Setup
+> 🏗️ Installation & Setup
 
 #### 🔹 `Clone the Repository`
 ```sh
