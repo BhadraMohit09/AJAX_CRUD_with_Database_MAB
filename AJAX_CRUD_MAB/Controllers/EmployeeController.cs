@@ -13,6 +13,7 @@ namespace AJAX_CRUD_MAB.Controllers
             _context = context;
         }
 
+        //Get All
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
