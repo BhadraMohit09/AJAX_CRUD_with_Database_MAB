@@ -19,7 +19,7 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
-    app.UseExceptionHandler("/Home/Error");
+    app.UseExceptionHandler("/Home/Error/");
 }
 app.UseStaticFiles();
 
@@ -29,13 +29,13 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Home}/{action=Index}/{id?}/");
 
 // Ensure the database is created on application startup
 using (var scope = app.Services.CreateScope())
 {
-    var dbContext = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
-    dbContext.Database.Migrate(); // Ensure DB is up-to-date
+    const DBContext = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+    DBContext.Database.Migrate(); // Ensure DB is up-to-date
 }
 
 app.Run();
